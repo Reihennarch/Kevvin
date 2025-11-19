@@ -35,9 +35,9 @@ a {
     text-decoration: none;
 }
 
-/* FIXED IMAGE PATH */
+/* FIXED IMAGE PATHS */
 .kawasaki {
-    background-image: url("../images/Kawasaki-logo.svg (1).png");
+    background-image: url("images/kawasaki-logo-1.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -46,7 +46,6 @@ a {
     margin: 20px auto;
 }
 
-/* FIXED IMAGE PATH */
 .background1 {
     background-color: white;
     height: 350px;
@@ -56,7 +55,7 @@ a {
     justify-content: center;
     align-items: center;
     margin-top: 15px;
-    background-image: url("../images/91af0e22-6cca-4d78-bf2f-60b705954411.png");
+    background-image: url("images/ninja-fi.png");
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: center;
@@ -91,9 +90,9 @@ h2 {
     margin-top: 15px;
 }
 
-/* FIXED IMAGE PATH */
+/* FIXED IMAGE PATHS */
 .logo {
-    background-image: url("../images/Kawasaki-logo.svg.png");
+    background-image: url("images/kawasaki-logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -102,7 +101,6 @@ h2 {
     margin: 20px auto;
 }
 
-/* FIXED IMAGE PATH */
 .background2 {
     background-color: white;
     height: 350px;
@@ -112,7 +110,7 @@ h2 {
     justify-content: center;
     align-items: center;
     margin-top: 15px;
-    background-image: url("../images/1679889499_kawasaki-ninja-zx-25rr-motor-sport-dengan-harga-terjangkau.avif");
+    background-image: url("images/zx25r.png");
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: center;
@@ -121,7 +119,7 @@ h2 {
 /* FIXED IMAGE PATH */
 .akhir {
     background-color: white;
-    background-image: url("../images/download.png");
+    background-image: url("images/download.png");
     height: 500px;
     width: 100%;
     margin-top: 30px;
@@ -155,3 +153,4 @@ h2 {
     flex: 1;
     margin: 0 10px;
 }
+
